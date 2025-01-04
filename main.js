@@ -1,3 +1,3 @@
-setTimeout(() => {
+(setTimeout(() => {
   document.getElementById("ascendNumber").style.fontFamily = "monospace";
-}, 2000)
+}, 2000))();
